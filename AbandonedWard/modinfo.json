@@ -1,0 +1,12 @@
+{
+    "id": "abandonedward",
+    "name": "Abandoned Ward",
+    "version": "0.0.1",
+    "hide_version": false,
+    "authors": "TheMightyJevry",
+    "description": "Description of your mod!",
+    "requirements": ["regionkit"],
+    "requirements_names": ["RegionKit"],
+    "checksum_override_version": false,
+    "tags": ["Regions"]
+}
