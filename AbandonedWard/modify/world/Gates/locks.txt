@@ -1,1 +1,0 @@
-[ADD]GATE_HI_AW : 1 : 1

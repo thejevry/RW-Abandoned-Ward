@@ -1,0 +1,4 @@
+Palette: 13
+EffectColorB: 1
+AmbientSounds: SPOT><AM_IND-50hz.ogg><710.8006><341.3065><0.5><1><221.8006><481.3065><-60.35535><-55.35535><0><0.1, 
+FadePalette: 10, 0.6086956
