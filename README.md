@@ -4,6 +4,7 @@ a WIP rainworld region
 
 Planning:
 region: abandoned ward.
+
 color pallette:
 
 	-upper rooms lots of gray-white tiles 
