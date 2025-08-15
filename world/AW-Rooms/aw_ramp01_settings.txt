@@ -1,0 +1,8 @@
+TerrainLight: 0.4021739
+TerrainStainAmount: 0
+TerrainWaves: 0
+TerrainEdgeRadius: 40.43473
+TerrainGooHeight: 0.7065217
+TerrainDepth: -0.5978328
+TerrainPalette: test_soot
+PlacedObjects: TerrainHandle><129.4601><101.7052><-67~5~22~46~20, TerrainHandle><1626.53><481.3022><-48~-7~37~0~6, TerrainHandle><216.1005><194.2271><-75~-20~40~4~20, TerrainHandle><2141.157><481.3734><-33~-2~0~-52~5, TerrainHandle><62.66135><179.8682><-41~0~40~0~20, TerrainHandle><1886.865><478.3363><-19~10~30~-84~11, TerrainHandle><1973.325><478.9028><-27~-73~43~1~9, 
